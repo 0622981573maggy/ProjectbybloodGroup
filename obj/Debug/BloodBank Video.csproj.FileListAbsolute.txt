@@ -1,0 +1,56 @@
+C:\Users\ASUS\Desktop\BloodBank Video\BloodBank Video\bin\Debug\BloodBank Video.exe.config
+C:\Users\ASUS\Desktop\BloodBank Video\BloodBank Video\bin\Debug\BloodBank Video.exe
+C:\Users\ASUS\Desktop\BloodBank Video\BloodBank Video\bin\Debug\BloodBank Video.pdb
+C:\Users\ASUS\Desktop\BloodBank Video\BloodBank Video\bin\Debug\MySql.Data.dll
+C:\Users\ASUS\Desktop\BloodBank Video\BloodBank Video\bin\Debug\System.Memory.dll
+C:\Users\ASUS\Desktop\BloodBank Video\BloodBank Video\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ASUS\Desktop\BloodBank Video\BloodBank Video\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ASUS\Desktop\BloodBank Video\BloodBank Video\bin\Debug\System.Buffers.dll
+C:\Users\ASUS\Desktop\BloodBank Video\BloodBank Video\bin\Debug\MySql.Data.xml
+C:\Users\ASUS\Desktop\BloodBank Video\BloodBank Video\obj\Debug\BloodBank Video.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\BloodBank Video\BloodBank Video\obj\Debug\BloodBank_Video.Form1.resources
+C:\Users\ASUS\Desktop\BloodBank Video\BloodBank Video\obj\Debug\BloodBank_Video.Properties.Resources.resources
+C:\Users\ASUS\Desktop\BloodBank Video\BloodBank Video\obj\Debug\BloodBank Video.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\BloodBank Video\BloodBank Video\obj\Debug\BloodBank Video.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\BloodBank Video\BloodBank Video\obj\Debug\BloodBank Video.csproj.CopyComplete
+C:\Users\ASUS\Desktop\BloodBank Video\BloodBank Video\obj\Debug\BloodBank Video.exe
+C:\Users\ASUS\Desktop\BloodBank Video\BloodBank Video\obj\Debug\BloodBank Video.pdb
+C:\Users\ASUS\Desktop\BloodBank Video\BloodBank Video\obj\Debug\BloodBank_Video.Dashboard.resources
+C:\Users\ASUS\Desktop\Project C#\BloodBank Video\BloodBank Video\bin\Debug\BloodBank Video.exe.config
+C:\Users\ASUS\Desktop\Project C#\BloodBank Video\BloodBank Video\bin\Debug\BloodBank Video.exe
+C:\Users\ASUS\Desktop\Project C#\BloodBank Video\BloodBank Video\bin\Debug\BloodBank Video.pdb
+C:\Users\ASUS\Desktop\Project C#\BloodBank Video\BloodBank Video\bin\Debug\System.Memory.dll
+C:\Users\ASUS\Desktop\Project C#\BloodBank Video\BloodBank Video\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ASUS\Desktop\Project C#\BloodBank Video\BloodBank Video\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ASUS\Desktop\Project C#\BloodBank Video\BloodBank Video\bin\Debug\System.Buffers.dll
+C:\Users\ASUS\Desktop\Project C#\BloodBank Video\BloodBank Video\obj\Debug\BloodBank Video.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Project C#\BloodBank Video\BloodBank Video\obj\Debug\BloodBank_Video.Dashboard.resources
+C:\Users\ASUS\Desktop\Project C#\BloodBank Video\BloodBank Video\obj\Debug\BloodBank_Video.Form1.resources
+C:\Users\ASUS\Desktop\Project C#\BloodBank Video\BloodBank Video\obj\Debug\BloodBank_Video.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Project C#\BloodBank Video\BloodBank Video\obj\Debug\BloodBank Video.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Project C#\BloodBank Video\BloodBank Video\obj\Debug\BloodBank Video.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Project C#\BloodBank Video\BloodBank Video\obj\Debug\BloodBank Video.csproj.CopyComplete
+C:\Users\ASUS\Desktop\Project C#\BloodBank Video\BloodBank Video\obj\Debug\BloodBank Video.exe
+C:\Users\ASUS\Desktop\Project C#\BloodBank Video\BloodBank Video\obj\Debug\BloodBank Video.pdb
+C:\Users\ASUS\Desktop\Project C#\BloodBank Video\BloodBank Video\bin\Debug\Guna.UI2.dll
+C:\Users\ASUS\Desktop\Project C#\BloodBank Video\BloodBank Video\obj\Debug\BloodBank_Video.AddNewDonor.resources
+C:\Users\ASUS\Desktop\Project C#\BloodBank Video\BloodBank Video\obj\Debug\BloodBank_Video.UpdateDonorDetails.resources
+C:\Users\ASUS\Desktop\Project C#\BloodBank Video\BloodBank Video\obj\Debug\BloodBank_Video.AllDonorDetails.resources
+C:\Users\ASUS\Desktop\Project C#\BloodBank Video\BloodBank Video\obj\Debug\BloodBank_Video.SearchBloodDonorAddress.resources
+C:\Users\ASUS\Desktop\Project C#\BloodBank Video\BloodBank Video\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ASUS\Desktop\Project C#\BloodBank Video\BloodBank Video\bin\Debug\itextsharp.dll
+C:\Users\ASUS\Desktop\Project C#\BloodBank Video\BloodBank Video\bin\Debug\itextsharp.xml
+C:\Users\ASUS\Desktop\Project C#\BloodBank Video\BloodBank Video\obj\Debug\BloodBank_Video.SearchDonorByBlood.resources
+C:\Users\ASUS\Desktop\Project C#\BloodBank Video\BloodBank Video\obj\Debug\BloodBank_Video.SearchDonorByNameSurname.resources
+C:\Users\ASUS\Desktop\Project C#\BloodBank Video\BloodBank Video\obj\Debug\BloodBank_Video.StockIncrease.resources
+C:\Users\ASUS\Desktop\Project C#\BloodBank Video\BloodBank Video\obj\Debug\BloodBank_Video.StockDecrease.resources
+C:\Users\ASUS\Desktop\Project C#\BloodBank Video\BloodBank Video\obj\Debug\BloodBank_Video.Stock.resources
+C:\Users\ASUS\Desktop\Project C#\BloodBank Video\BloodBank Video\obj\Debug\BloodBank_Video.DeleteDonor.resources
+C:\Users\ASUS\Desktop\Project C#\BloodBank Video\BloodBank Video\obj\Debug\BloodBank_Video.SearchnameID.resources
+C:\Users\ASUS\Desktop\Project C#\BloodBank Video\BloodBank Video\obj\Debug\BloodBank_Video.AboutUs.resources
+C:\Users\ASUS\Desktop\Project C#\BloodBank Video\BloodBank Video\obj\Debug\BloodBank_Video.AboutMe.resources
+C:\Users\ASUS\Desktop\Project C#\BloodBank Video\BloodBank Video\obj\Debug\BloodBank_Video.Healthinformation.resources
+C:\Users\ASUS\Desktop\Project C#\BloodBank Video\BloodBank Video\obj\Debug\BloodBank_Video.Againhealtdata.resources
+C:\Users\ASUS\Desktop\Project C#\BloodBank Video\BloodBank Video\obj\Debug\BloodBank_Video.Searchaginhealdata.resources
+C:\Users\ASUS\Desktop\Project C#\BloodBank Video\BloodBank Video\obj\Debug\BloodBank_Video.Checkdailybalance.resources
+C:\Users\ASUS\Desktop\Project C#\BloodBank Video\BloodBank Video\obj\Debug\BloodBank_Video.monthcheckdaily.resources
